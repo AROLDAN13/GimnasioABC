@@ -14,7 +14,7 @@ Caso de negocio
 -------------
 En primer lugar, se ha definido el caso de negocio, el cual permite comprender tanto la situación actual como el estado objetivo deseado, además de la estrategia propuesta para alcanzarlo y el impacto económico asociado a la inversión necesaria para lograr dicho objetivo.
 
-![image](https://github.com/user-attachments/assets/d29593b7-9733-4e98-8edc-8f21ca6da51c)
+![image](https://github.com/user-attachments/assets/4a2dfe73-2538-41d4-9b6e-f3e3751ad218)
 
 Key Performance Indicator
 -------------
@@ -32,7 +32,7 @@ Reporte
 -------------
 Seguidamente, mediante un gráfico de líneas que permite visualizar la evolución del proyecto en dos escenarios distintos, con y sin estrategia, se emplea el Critical Reflection Model para identificar la situación actual, establecer el estado objetivo y determinar las acciones necesarias para alcanzar dicho objetivo.
 
-![image](https://github.com/user-attachments/assets/d5be1d52-b3be-4b31-9bd8-433924a54294)
+![image](https://github.com/user-attachments/assets/ed8be7ce-6282-4cf2-bd32-0aad374ca8b9)
 
 Key Performance Questions
 -------------
