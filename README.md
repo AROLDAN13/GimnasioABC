@@ -1,6 +1,6 @@
 # 📊 Caso de negocio Gimnasio ABC 📊
 <p>
-Este portafolio presenta un análisis del caso de negocio del Gimnasio ABC, utilizando herramientas de análisis y visualización de datos en Power BI. El propósito es demostrar cómo el análisis y la visualización de datos asociado a un caso de negocio bien definido, junto con la correcta selección del *Key Performance Indicator* (KPI) y la formulación de *Key Performance Questions* (KPQs), contribuyen a la toma de decisiones estratégicas e informadas dentro de un mercado dinámico y competitivo.
+Este portafolio presenta un análisis del caso de negocio del Gimnasio ABC, utilizando herramientas de análisis y visualización de datos en Power BI. El propósito es demostrar cómo el análisis y la visualización de datos asociado a un caso de negocio bien definido, junto con la correcta selección del Key Performance Indicator (KPI) y la formulación de Key Performance Questions (KPQs), contribuyen a la toma de decisiones estratégicas e informadas dentro de un mercado dinámico y competitivo.
 
 A continuación, se muestra el contenido del proyecto:
 </p>
