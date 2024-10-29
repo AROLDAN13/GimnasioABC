@@ -28,7 +28,7 @@ Reporte
 Key Performance Questions
 -------------
 
-#### Pregunta 1: ¿Cuál es la ciudad que mostró la mayor inversión total requerida para la implementación de nuevos gimnasios durante el año 2023?
+- Pregunta 1: ¿Cuál es la ciudad que mostró la mayor inversión total requerida para la implementación de nuevos gimnasios durante el año 2023?
 ![image](https://github.com/user-attachments/assets/56fb7273-ce4c-405a-aa95-c616454ecc73)
 
 #### Pregunta 2: ¿Cuál fue el tipo de inversión que representó el mayor costo de implementación durante el año 2023 en la ciudad de Lima?
