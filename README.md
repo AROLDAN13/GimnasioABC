@@ -8,7 +8,7 @@ A continuación, se muestra el contenido del proyecto:
 Integrantes del proyecto
 -------------
 
-![image](https://github.com/user-attachments/assets/58625b39-fd84-4ed5-bac3-27143550ce93)
+![image](https://github.com/user-attachments/assets/9f4628cb-94d0-4622-b06b-4806b8326cb5)
 
 Caso de negocio
 -------------
