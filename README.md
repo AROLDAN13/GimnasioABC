@@ -7,26 +7,31 @@ A continuación, se muestra el contenido del proyecto:
 
 Integrantes del proyecto
 -------------
+
 ![image](https://github.com/user-attachments/assets/58625b39-fd84-4ed5-bac3-27143550ce93)
 
 Caso de negocio
 -------------
 En primer lugar, se ha definido el caso de negocio, el cual permite comprender tanto la situación actual como el estado objetivo deseado, además de la estrategia propuesta para alcanzarlo y el impacto económico asociado a la inversión necesaria para lograr dicho objetivo.
+
 ![image](https://github.com/user-attachments/assets/d29593b7-9733-4e98-8edc-8f21ca6da51c)
 
 Key Performance Indicator
 -------------
 Posteriormente, se estableció un indicador clave de negocio acorde con el caso de negocio, con el fin de determinar las siguientes características:
+
 ![image](https://github.com/user-attachments/assets/050a8238-df7e-4802-b3b1-518dea233c42)
 
 Dashboard
 -------------
 Luego, se desarrolló el dashboard correspondiente al KPI "Indicador Anual Acumulado de Ventas de Membresías en Locales Nuevos sobre Inversión en su Implementación," definido en la sección anterior. Este indicador, perteneciente al Área de Planeamiento Financiero de la empresa, se actualizó con datos hasta el 31 de diciembre de 2023.
+
 ![image](https://github.com/user-attachments/assets/b97f21b3-3ce4-4b9d-b7ef-5c6120a637cd)
 
 Reporte
 -------------
 Seguidamente, mediante un gráfico de líneas que permite visualizar la evolución del proyecto en dos escenarios distintos, con y sin estrategia, se emplea el Critical Reflection Model para identificar la situación actual, establecer el estado objetivo y determinar las acciones necesarias para alcanzar dicho objetivo.
+
 ![image](https://github.com/user-attachments/assets/d5be1d52-b3be-4b31-9bd8-433924a54294)
 
 Key Performance Questions
