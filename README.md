@@ -58,9 +58,9 @@ Finalmente, se formularon preguntas clave de negocio que fueron abordadas median
   
 ![image](https://github.com/user-attachments/assets/257446f8-c513-463f-9104-8531804fe636)
 
-- Pregunta 6: Top 5 tipo de inversión durante el año 2023
+- Pregunta 6: ¿Cuál es el Top 5 tipo de inversión durante el año 2023?
   
-![image](https://github.com/user-attachments/assets/5457a16c-8a41-4dd6-9dac-944ffbfeb575)
+![image](https://github.com/user-attachments/assets/601b4c2f-c213-4888-a7ee-e07299e7459d)
 
 - Pregunta 7: ¿Cuál es el tipo de beneficio por membresía más adquirido en el año 2023?
   
