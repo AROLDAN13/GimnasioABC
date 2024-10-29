@@ -30,7 +30,7 @@ Luego, se desarrolló el dashboard correspondiente al KPI "Indicador Anual Acumu
 
 Reporte
 -------------
-Seguidamente, mediante un gráfico de líneas que permite visualizar la evolución del proyecto en dos escenarios distintos, con y sin estrategia, se emplea el Critical Reflection Model para identificar la situación actual, establecer el estado objetivo y determinar las acciones necesarias para alcanzar dicho objetivo.
+Seguidamente, mediante un gráfico de líneas que permite visualizar la evolución del KPI del proyecto en dos escenarios distintos, con y sin estrategia, se emplea el Critical Reflection Model para identificar la situación actual, establecer el estado objetivo y determinar las acciones necesarias para alcanzar dicho objetivo.
 
 ![image](https://github.com/user-attachments/assets/ed8be7ce-6282-4cf2-bd32-0aad374ca8b9)
 
